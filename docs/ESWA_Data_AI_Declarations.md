@@ -2,11 +2,19 @@
 
 ## Data Availability
 
-The benchmark instances used in this study are publicly available from the Solomon, Homberger, and Li & Lim benchmark repositories. The source code, processed result tables, figure-generation scripts, and reproduction commands are prepared for anonymous peer review. The anonymized repository URL should be inserted here before formal submission, and the repository should be made public upon acceptance.
+The benchmark instances used in this study are publicly available from the Solomon, Homberger, and Li & Lim benchmark repositories. The source code, processed result tables, figure-generation scripts, and reproduction commands are available at https://github.com/nothingbody/ESWA.
 
 ## Code Availability
 
-The implementation package prepared for submission should include parsers, verifiers, construction heuristics, ALNS modules, experiment scripts, processed result tables, figure-generation scripts, and reproduction commands. The anonymous repository URL should be inserted before formal submission.
+The implementation package includes parsers, verifiers, construction heuristics, ALNS modules, experiment scripts, processed result tables, figure-generation scripts, and reproduction commands. It is available at https://github.com/nothingbody/ESWA.
+
+## Funding
+
+This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+
+## Acknowledgements
+
+Not applicable.
 
 ## Declaration of Competing Interest
 

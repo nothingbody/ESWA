@@ -665,7 +665,7 @@ The Homberger representative-instance results are retained as supplementary scal
 
 ## Data availability
 
-The benchmark instances used in this study are publicly available from the Solomon, Homberger, and Li & Lim benchmark repositories. The source code, processed result tables, figure-generation scripts, and reproduction commands are prepared for anonymous peer review. The anonymized repository URL should be inserted before formal submission, and the repository should be made public upon acceptance.
+The benchmark instances used in this study are publicly available from the Solomon, Homberger, and Li & Lim benchmark repositories. The source code, processed result tables, figure-generation scripts, and reproduction commands are available at https://github.com/nothingbody/ESWA.
 
 ## Declaration of generative AI and AI-assisted technologies
 
