@@ -1,0 +1,4 @@
+method,instances,avg_vehicle_gap,vehicle_match_rate,avg_distance_gap_pct_all,comparable_distance_count,avg_distance_gap_pct_comparable
+greedy_insertion+basic_alns,3,1.666667,0.333333,1.807080,1,-0.000378
+nearest_neighbor+basic_alns,3,2.000000,0.333333,6.146653,1,-0.000378
+regret_insertion+basic_alns,3,2.000000,0.333333,2.581548,1,-0.000378

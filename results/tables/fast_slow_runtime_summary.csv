@@ -1,0 +1,3 @@
+experiment,instances,fast_layer_seconds,slow_layer_seconds,total_seconds,slow_layer_share,candidate_pool_size,selected_seed_distribution
+Solomon advanced multi-start ALNS,56,8.663579,67.176479,75.840058,0.885765,3,11:15;23:13;42:28
+Solomon nearest-neighbor typed action rules,56,0.030735,4.374501,4.405237,0.993023,1,

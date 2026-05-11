@@ -1,0 +1,2 @@
+method,instances,feasible_count,feasible_rate,avg_vehicle_gap_feasible,vehicle_match_rate_feasible,avg_distance_gap_pct_feasible,comparable_distance_count,avg_distance_gap_pct_comparable,avg_runtime
+ortools_routing,56,49,0.875,0.6122448979591837,0.5306122448979592,2.5393456326530615,26,3.8837311923076925,30.00397542857143

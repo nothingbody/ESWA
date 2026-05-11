@@ -1,0 +1,4 @@
+difficulty_group,instances,mean_initial_fast_gap,mean_binary_gap,mean_typed_action_gap,mean_gap_reduction,mean_typed_slow_seconds
+low,19,4.684211,2.210526,1.000000,1.210526,3.577999
+medium,18,8.055556,3.722222,1.611111,2.111111,4.238229
+high,19,12.631579,4.263158,2.263158,2.000000,5.300103

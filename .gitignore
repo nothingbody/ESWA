@@ -1,0 +1,43 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Local benchmark data and generated BKS cache
+data/
+
+# Runtime logs and status markers
+*.log
+*.status
+results/logs/
+
+# Local editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Manuscript files with author identity, submission logistics, or local/server notes
+FTV-Logistics_*.md
+docs/ESWA_Title_Page_Template.*
+docs/ESWA_Cover_Letter_Draft.md
+docs/ESWA_submission_strategy.md
+docs/ESWA_Final_Submission_Checklist.md
+docs/ESWA_Reviewer_Perspective_Revision_Log.md
+docs/ESWA_Major_Revision_Action_Log.md
+docs/ESWA_NatureStyle_Manuscript_Draft.md
+docs/FTV_Logistics_SCI_Manuscript_Draft.md
+docs/results_and_discussion_draft.md
+
+# Binary manuscript exports may carry local document metadata; regenerate locally if needed
+docs/*.docx
+
+# Draft-generation scripts retained locally but not needed for the public code artifact
+experiments/generate_manuscript.py
+experiments/generate_results_report.py
+experiments/export_eswa_title_page_docx.py

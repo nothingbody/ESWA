@@ -1,0 +1,10 @@
+dataset,method,base_vehicles,base_distance,vehicles,distance,feasible,violations,runtime,bks_vehicles,bks_distance,vehicle_gap,distance_gap_pct,distance_gap_comparable,bks_source
+C101,greedy_insertion+basic_alns,11,1140.400240,10,828.936867,True,0,24.292289,10,828.94,0,-0.000378,True,SINTEF VRPTW 100 customers
+C101,nearest_neighbor+basic_alns,16,1774.136330,10,828.936867,True,0,20.077242,10,828.94,0,-0.000378,True,SINTEF VRPTW 100 customers
+C101,regret_insertion+basic_alns,11,1305.964232,10,828.936867,True,0,24.244228,10,828.94,0,-0.000378,True,SINTEF VRPTW 100 customers
+R101,greedy_insertion+basic_alns,23,2337.631365,20,1691.026216,True,0,23.314302,19,1650.80,1,2.436771,False,SINTEF VRPTW 100 customers
+R101,nearest_neighbor+basic_alns,28,2398.030371,22,1802.194618,True,0,20.077168,19,1650.80,3,9.170985,False,SINTEF VRPTW 100 customers
+R101,regret_insertion+basic_alns,25,2637.832196,22,1752.918661,True,0,23.088885,19,1650.80,3,6.186010,False,SINTEF VRPTW 100 customers
+RC101,greedy_insertion+basic_alns,18,2332.412676,18,1747.601371,True,0,23.433358,14,1696.95,4,2.984848,False,SINTEF VRPTW 100 customers
+RC101,nearest_neighbor+basic_alns,23,2650.556768,17,1854.246289,True,0,20.024696,14,1696.95,3,9.269353,False,SINTEF VRPTW 100 customers
+RC101,regret_insertion+basic_alns,24,3079.354092,17,1723.405661,True,0,23.187695,14,1696.95,3,1.559012,False,SINTEF VRPTW 100 customers

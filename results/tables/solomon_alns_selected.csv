@@ -1,0 +1,10 @@
+dataset,method,base_vehicles,base_distance,vehicles,distance,feasible,violations,runtime
+C101,greedy_insertion+basic_alns,11,1140.400240,10,828.936867,True,0,24.292289
+C101,nearest_neighbor+basic_alns,16,1774.136330,10,828.936867,True,0,20.077242
+C101,regret_insertion+basic_alns,11,1305.964232,10,828.936867,True,0,24.244228
+R101,greedy_insertion+basic_alns,23,2337.631365,20,1691.026216,True,0,23.314302
+R101,nearest_neighbor+basic_alns,28,2398.030371,22,1802.194618,True,0,20.077168
+R101,regret_insertion+basic_alns,25,2637.832196,22,1752.918661,True,0,23.088885
+RC101,greedy_insertion+basic_alns,18,2332.412676,18,1747.601371,True,0,23.433358
+RC101,nearest_neighbor+basic_alns,23,2650.556768,17,1854.246289,True,0,20.024696
+RC101,regret_insertion+basic_alns,24,3079.354092,17,1723.405661,True,0,23.187695

@@ -1,0 +1,13 @@
+generator,variant,instances,feasible_count,feasible_rate,avg_vehicles,avg_distance,avg_violations
+greedy_insertion,fast_only,3,3,1.000000,17.333333,1936.814760,0.000000
+greedy_insertion,fast_repair,3,3,1.000000,17.333333,1936.814760,0.000000
+greedy_insertion,fast_repair_merge,3,3,1.000000,17.333333,1936.814760,0.000000
+greedy_insertion,full_ftv,3,3,1.000000,17.000000,1663.248156,0.000000
+nearest_neighbor,fast_only,3,1,0.333333,28.333333,2401.745584,0.666667
+nearest_neighbor,fast_repair,3,1,0.333333,28.333333,2401.745584,0.666667
+nearest_neighbor,fast_repair_merge,3,2,0.666667,22.333333,2274.241156,0.333333
+nearest_neighbor,full_ftv,3,3,1.000000,20.666667,1994.338619,0.000000
+regret_insertion,fast_only,3,3,1.000000,20.000000,2341.050173,0.000000
+regret_insertion,fast_repair,3,3,1.000000,20.000000,2341.050173,0.000000
+regret_insertion,fast_repair_merge,3,3,1.000000,20.000000,2341.050173,0.000000
+regret_insertion,full_ftv,3,3,1.000000,18.333333,1872.203253,0.000000

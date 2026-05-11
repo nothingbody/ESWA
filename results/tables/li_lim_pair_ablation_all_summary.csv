@@ -1,0 +1,4 @@
+method,instances,feasible_count,feasible_rate,avg_initial_vehicles,avg_vehicles,avg_vehicle_reduction,avg_initial_distance,avg_distance,avg_distance_improvement_pct,avg_runtime
+greedy_pair_insertion,56,56,1.000000,9.464286,8.625000,0.839286,1390.323271,1344.880537,2.800838,3.428869
+greedy_pair_insertion+ordinary_alns,56,56,1.000000,8.625000,8.571429,0.053571,1344.880537,1332.614863,1.324613,19.975851
+greedy_pair_insertion+pair_alns,56,56,1.000000,8.625000,7.767857,0.857143,1344.880537,1171.304170,12.919937,24.002904

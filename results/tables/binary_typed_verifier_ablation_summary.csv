@@ -1,0 +1,4 @@
+generator,variant,instances,feasible_count,feasible_rate,avg_vehicles,avg_distance,avg_violations
+nearest_neighbor,binary_feasibility_only,56,56,1.000000,10.625000,1471.548917,0.000000
+nearest_neighbor,typed_action_rules,56,56,1.000000,8.857143,1388.953456,0.000000
+nearest_neighbor,typed_diagnostics_only,56,56,1.000000,10.625000,1471.548917,0.000000

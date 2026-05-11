@@ -1,0 +1,4 @@
+dataset,method,vehicles,distance,feasible,violations,runtime
+C101_smoke,nearest_neighbor,1,68.284271,True,0,0.000051
+C101_smoke,greedy_insertion,1,68.284271,True,0,0.000207
+C101_smoke,regret_insertion,1,68.284271,True,0,0.000207

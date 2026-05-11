@@ -1,0 +1,4 @@
+method,instances,feasible_count,feasible_rate,avg_initial_vehicles,avg_vehicles,avg_vehicle_reduction,avg_initial_distance,avg_distance,avg_distance_improvement_pct,avg_runtime
+greedy_insertion,56,56,1.000000,9.250000,8.696429,0.553571,1563.315084,1300.218496,16.531531,8.663579
+nearest_neighbor,56,56,1.000000,15.696429,8.857143,6.839286,1819.216689,1388.953456,22.964159,0.030735
+regret_insertion,56,56,1.000000,11.660714,10.446429,1.214286,2758.319369,2000.435977,26.862259,6.925511

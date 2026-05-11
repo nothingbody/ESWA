@@ -1,0 +1,4 @@
+dataset,method,initial_vehicles,initial_distance,vehicles,distance,feasible,violations,runtime
+R206,nearest_neighbor,8,1513.053512,5,1334.002466,True,0,0.014748
+R206,greedy_insertion,4,1464.483398,4,1186.371179,True,0,11.492700
+R206,regret_insertion,4,2251.393682,4,1552.849660,True,0,7.868100

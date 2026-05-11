@@ -1,0 +1,4 @@
+generator,verifier_variant,instances,avg_vehicle_gap,vehicle_match_rate,avg_distance_gap_pct_all,comparable_distance_count,avg_distance_gap_pct_comparable
+nearest_neighbor,binary_feasibility_only,56,3.392857,0.000000,48.990348,0,
+nearest_neighbor,typed_action_rules,56,1.625000,0.142857,39.879231,8,51.190664
+nearest_neighbor,typed_diagnostics_only,56,3.392857,0.000000,48.990348,0,

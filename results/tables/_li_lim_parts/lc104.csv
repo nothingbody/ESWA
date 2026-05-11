@@ -1,0 +1,3 @@
+dataset,method,initial_vehicles,initial_distance,vehicles,distance,feasible,violations,runtime,pairs
+lc104,greedy_pair_insertion,10,932.545147,10,932.545147,True,0,10.645099,53
+lc104,greedy_pair_insertion+pair_alns,10,932.545147,9,1012.989884,True,0,31.528691,53

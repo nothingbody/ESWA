@@ -1,0 +1,6 @@
+comparison,instances,nonzero_pairs,mean_before_gap,mean_after_gap,mean_gap_reduction,wilcoxon_w,p_value
+Solomon greedy baseline vs advanced ALNS,56,36,1.464286,0.446429,1.017857,0.000000,7.6253042933e-08
+Solomon generic repair+merge vs typed route elimination,56,54,4.178571,1.642857,2.535714,0.000000,1.25554901369e-10
+Solomon binary verifier vs typed action rules,56,53,3.392857,1.625000,1.767857,0.000000,1.29234736818e-10
+Li & Lim greedy pair insertion vs pair-aware ALNS,56,33,1.446429,0.482143,0.964286,0.000000,3.03931667526e-07
+Li & Lim ordinary ALNS vs pair-aware ALNS,56,30,1.392857,0.589286,0.803571,0.000000,7.71921078738e-07

@@ -1,0 +1,4 @@
+config,runs,feasible_rate,avg_vehicles,avg_distance,avg_runtime
+aggressive,9,1.000000,14.888889,1440.783084,20.519654
+balanced,9,1.000000,14.888889,1410.495431,20.501997
+conservative,9,1.000000,15.000000,1414.537590,20.224351
