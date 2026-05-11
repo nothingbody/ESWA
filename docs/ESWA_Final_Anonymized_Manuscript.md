@@ -665,7 +665,7 @@ The Homberger representative-instance results are retained as supplementary scal
 
 ## Data availability
 
-The benchmark instances used in this study are publicly available from the Solomon, Homberger, and Li & Lim benchmark repositories. For double-anonymous peer review, the source code, processed result tables, figure-generation scripts, and reproduction commands are provided as anonymized supplementary material through the submission system. A public archival repository link will be provided after acceptance.
+The benchmark instances used in this study are publicly available from the Solomon, Homberger, and Li & Lim benchmark repositories. For double-anonymous peer review, the source code, processed result tables, figure-generation scripts, and reproduction commands are provided as Supplementary Material S1, an anonymized code and results package uploaded through the submission system. A public archival repository link will be provided after acceptance.
 
 ## Declaration of generative AI and AI-assisted technologies
 
@@ -674,6 +674,8 @@ During the preparation of this work, the authors used AI-assisted tools to suppo
 ## References
 
 DeepSeek-AI. (2025). *DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning*. arXiv. https://arxiv.org/abs/2501.12948
+
+Google OR-Tools Team. (2026). *OR-Tools* (Version 9.15.6755) [Computer software]. Google. https://developers.google.com/optimization
 
 Lacomme, P., Rault, G., & Sevaux, M. (2021). Integrated decision support system for rich vehicle routing problems. *Expert Systems with Applications, 178*, 114998. https://doi.org/10.1016/j.eswa.2021.114998
 

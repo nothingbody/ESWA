@@ -2,11 +2,11 @@
 
 ## Data Availability
 
-The benchmark instances used in this study are publicly available from the Solomon, Homberger, and Li & Lim benchmark repositories. For double-anonymous peer review, the source code, processed result tables, figure-generation scripts, and reproduction commands are provided as anonymized supplementary material through the submission system. A public archival repository link will be provided after acceptance.
+The benchmark instances used in this study are publicly available from the Solomon, Homberger, and Li & Lim benchmark repositories. For double-anonymous peer review, the source code, processed result tables, figure-generation scripts, and reproduction commands are provided as Supplementary Material S1, an anonymized code and results package uploaded through the submission system. A public archival repository link will be provided after acceptance.
 
 ## Code Availability
 
-The implementation package includes parsers, verifiers, construction heuristics, ALNS modules, experiment scripts, processed result tables, figure-generation scripts, and reproduction commands. For double-anonymous peer review, it is provided as anonymized supplementary material through the submission system. The public archival link will be provided after acceptance.
+The implementation package includes parsers, verifiers, construction heuristics, ALNS modules, experiment scripts, processed result tables, figure-generation scripts, and reproduction commands. For double-anonymous peer review, it is provided as Supplementary Material S1 through the submission system. The public archival link will be provided after acceptance.
 
 ## Funding
 
