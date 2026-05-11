@@ -38,6 +38,9 @@ docs/results_and_discussion_draft.md
 # Binary manuscript exports may carry local document metadata; regenerate locally if needed
 docs/*.docx
 
+# Local submission upload packages
+submission/
+
 # Draft-generation scripts retained locally but not needed for the public code artifact
 experiments/generate_manuscript.py
 experiments/generate_results_report.py
